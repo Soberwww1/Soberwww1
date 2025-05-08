@@ -9,3 +9,4 @@ dist
 *.cer
 # 忽略日志文件
 *.log
+*.png
