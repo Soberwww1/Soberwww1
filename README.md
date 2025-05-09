@@ -1,9 +1,11 @@
 ## 记录本人的前端学习路线 😁😁😁
 
-<p>
-  项目就是一个简单的天气预报，当然也包含了我学习使用git的路线
+<div>
+  项目就是一个简单的天气预报，当然也包含了我学习使用git的路线<br>
   前端小白一枚，希望在代码的道路上越走越远😋😋😋
-</p>
+
+  ---新城已无旧少年
+</div>
 
 <!--
 **Soberwww1/Soberwww1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
